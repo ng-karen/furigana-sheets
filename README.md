@@ -54,7 +54,7 @@ If the menu has a different name, look under **Extensions** for the name of your
 
 ## Privacy
 
-Your selected text goes to Google's Gemini API to get the readings. Nothing else is stored or shared. See [privacy.md](privacy.md).
+Your selected text goes to Google's Gemini API to get the readings. Nothing else is stored or shared. See [privacy.md](privacy.md) and [terms.md](terms.md).
 
 ## Coming soon
 

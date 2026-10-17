@@ -29,4 +29,4 @@ To stop the add-on, uninstall it, or remove its access under **Third-party apps 
 
 ## Contact
 
-Questions? Email CONTACT_EMAIL.
+Questions? Open an issue at https://github.com/ng-karen/furigana-sheets/issues
