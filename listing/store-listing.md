@@ -45,6 +45,6 @@ English
 - Screenshot 1280x800: screenshot-1-menu.png
 
 ## Links
-- Terms of service: https://github.com/ng-karen/furigana-sheets/blob/main/terms.md
-- Privacy policy: https://github.com/ng-karen/furigana-sheets/blob/main/privacy.md
+- Terms of service: https://www.fivepluszero.com/furigana/terms
+- Privacy policy: https://www.fivepluszero.com/furigana/privacy
 - Support: https://github.com/ng-karen/furigana-sheets/issues
