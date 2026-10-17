@@ -29,6 +29,9 @@ Readings come from AI and may sometimes be wrong. Please check important text.
 
 Free and open source: github.com/ng-karen/furigana-sheets
 
+## Post-install tip
+Get started: click Extensions > Furigana > Set Gemini API key and paste your free key from aistudio.google.com/apikey. Then select Japanese text and click Add furigana to selection.
+
 ## Category
 Education
 
