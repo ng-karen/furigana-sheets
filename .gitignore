@@ -1,0 +1,8 @@
+# clasp login token. Never commit this.
+.clasprc.json
+
+# Links this folder to Karen's own Apps Script project
+.clasp.json
+
+.DS_Store
+node_modules/
