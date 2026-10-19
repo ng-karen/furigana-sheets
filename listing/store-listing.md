@@ -44,7 +44,7 @@ English
 - Icon 32px: icon-32.png
 - Icon 128px: icon-128.png
 - Banner 220x140: banner-220x140.png
-- Screenshot 1280x800: screenshot-1-menu.png
+- Screenshots 1280x800 (in this order): screenshot-1-add.png, screenshot-2-result.png, screenshot-3-key.png
 
 ## Links
 - Terms of service: https://www.fivepluszero.com/furigana/terms
