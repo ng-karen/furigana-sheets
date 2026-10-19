@@ -1,13 +1,13 @@
 # Store listing text
 
 ## App name
-Furigana for Sheets
+Furigana for Google Sheets™
 
 ## Short description
-Add furigana (hiragana readings) to Japanese text in Google Sheets.
+Add furigana (hiragana readings) to Japanese text in Google Sheets™.
 
 ## Detailed description
-Add furigana to Japanese text in Google Sheets with one click.
+Add furigana to Japanese text in Google Sheets™ with one click.
 
 Select some cells and choose Add furigana. Each kanji word gets its hiragana reading in gray brackets, like this:
 
@@ -18,19 +18,21 @@ To take the readings out again, choose Remove furigana.
 Great for Japanese learners, teachers, and anyone making study sheets or vocabulary lists.
 
 How to start:
-1. Get a free Gemini API key at aistudio.google.com/apikey
+1. Get a free Gemini™ API key at aistudio.google.com/apikey
 2. Click Extensions > Furigana > Set Gemini API key and paste it
 3. Select cells and click Add furigana to selection
 
 Privacy:
-Your selected text is sent to Google's Gemini API, using your own key, to get the readings. Nothing is stored or shared by the developer.
+Your selected text is sent to the Gemini™ API, using your own key, to get the readings. Nothing is stored or shared by the developer.
 
 Readings come from AI and may sometimes be wrong. Please check important text.
 
 Free and open source: github.com/ng-karen/furigana-sheets
 
+Google Sheets™ and Gemini™ are trademarks of Google LLC.
+
 ## Post-install tip
-Get started: click Extensions > Furigana > Set Gemini API key and paste your free key from aistudio.google.com/apikey. Then select Japanese text and click Add furigana to selection.
+Get started: click Extensions > Furigana > Set Gemini API key and paste your free Gemini™ key from aistudio.google.com/apikey. Then select Japanese text and click Add furigana to selection.
 
 ## Category
 Education

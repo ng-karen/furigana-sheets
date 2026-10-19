@@ -56,10 +56,6 @@ If the menu has a different name, look under **Extensions** for the name of your
 
 Your selected text goes to Google's Gemini API to get the readings. Nothing else is stored or shared. See [privacy.md](privacy.md) and [terms.md](terms.md).
 
-## Coming soon
-
-A Google Workspace Marketplace version, so you can install it in one click.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
