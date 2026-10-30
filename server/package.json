@@ -1,0 +1,17 @@
+{
+  "name": "furigana-server",
+  "version": "1.0.0",
+  "description": "Adds furigana (hiragana readings) to Japanese text with the kuromoji dictionary. No AI.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "kuromoji": "0.1.2"
+  }
+}

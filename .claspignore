@@ -1,0 +1,4 @@
+# Only the add-on files go to Apps Script
+**/**
+!Code.js
+!appsscript.json
