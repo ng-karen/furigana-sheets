@@ -18,21 +18,22 @@ To take the readings out again, choose Remove furigana.
 Great for Japanese learners, teachers, and anyone making study sheets or vocabulary lists.
 
 How to start:
-1. Get a free Gemini™ API key at aistudio.google.com/apikey
-2. Click Extensions > Furigana > Set Gemini API key and paste it
-3. Select cells and click Add furigana to selection
+1. Select cells with Japanese text
+2. Click Extensions > Furigana > Add furigana to selection
+
+No API key or sign-up needed.
 
 Privacy:
-Your selected text is sent to the Gemini™ API, using your own key, to get the readings. Nothing is stored or shared by the developer.
+Readings come from a Japanese dictionary on the add-on's own server. No AI is used. Your text is sent over HTTPS, is not stored or logged, and is never shared or used to train AI.
 
-Readings come from AI and may sometimes be wrong. Please check important text.
+Some words have more than one reading, so please check important text.
 
 Free and open source: github.com/ng-karen/furigana-sheets
 
-Google Sheets™ and Gemini™ are trademarks of Google LLC.
+Google Sheets™ is a trademark of Google LLC.
 
 ## Post-install tip
-Get started: click Extensions > Furigana > Set Gemini API key and paste your free Gemini™ key from aistudio.google.com/apikey. Then select Japanese text and click Add furigana to selection.
+Get started: select cells with Japanese text, then click Extensions > Furigana > Add furigana to selection.
 
 ## Category
 Education
@@ -44,7 +45,7 @@ English
 - Icon 32px: icon-32.png
 - Icon 128px: icon-128.png
 - Banner 220x140: banner-220x140.png
-- Screenshots 1280x800 (in this order): screenshot-1-add.png, screenshot-2-result.png, screenshot-3-key.png
+- Screenshots 1280x800 (in this order): screenshot-1-add.png, screenshot-2-result.png (remove screenshot-3-key.png, it shows the old Gemini key step)
 
 ## Links
 - Terms of service: https://www.fivepluszero.com/furigana/terms

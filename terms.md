@@ -1,17 +1,15 @@
 # Terms of Service
 
 Furigana for Google Sheets
-Last updated: October 17, 2026
+Last updated: October 31, 2026
 
 ## Using the add-on
 
-Furigana for Google Sheets is free to use.
-
-You need your own Gemini API key. Your use of Gemini follows Google's [Gemini API terms](https://ai.google.dev/gemini-api/terms). Any cost from your key is yours.
+Furigana for Google Sheets is free to use. There is a daily limit on how much text each person can convert.
 
 ## Readings may be wrong
 
-The readings come from an AI model. They can be wrong, so please check them before you rely on them.
+The readings come from a Japanese dictionary. Some words have more than one reading, so the add-on may sometimes pick the wrong one. Please check them before you rely on them.
 
 ## No warranty
 
