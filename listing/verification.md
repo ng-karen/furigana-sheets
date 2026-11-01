@@ -28,9 +28,9 @@ spreadsheets.currentonly (non-sensitive): Reads the selected cells and writes th
 
 ## Step 3: Demo video
 
-https://youtu.be/6jCqP7IBWLA
+https://youtu.be/a_UeWyHuSKs
 
-It shows the permission screen with all 3 permissions, the Furigana menu (script.container.ui), and the readings coming back (script.external_request). This video still shows the old Gemini key step, so record a new one if Google asks.
+It shows the permission screen with all 3 permissions, the Furigana menu (script.container.ui), and the readings coming back (script.external_request). Recorded with script version 2 (dictionary server, no Gemini).
 
 ## Step 4: Submit
 
