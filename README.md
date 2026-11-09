@@ -11,6 +11,8 @@ Select some cells, click one menu item, and each kanji word gets its reading in 
 
 You can remove the readings again with one click.
 
+**[Install from the Google Workspace Marketplace](https://workspace.google.com/marketplace/app/furigana_for_google_sheets/262222190462)**
+
 <!-- Screenshot goes here -->
 ![Screenshot](docs/screenshot.png)
 
